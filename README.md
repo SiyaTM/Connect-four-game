@@ -1,6 +1,6 @@
 # Connect-four-game
 
-The Frog will be tasked with passing a busy road. The black blocks are cars and the grey blocks would signify the road. 
+Let us see who can connect the dots between you and player 2. 
 
 JavaScript is the preferred coding language used for this game.
 
